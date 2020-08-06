@@ -9,8 +9,10 @@ I'm a sophomore at MIT trying to take *all the classes* (:worried: just kidding!
 
 I'm currently:
 
-- 🔭 working/UROPing at the Media Lab, where I help develop a collaboration platform for Scratch!
+- 👩🏻‍💻 working/UROPing at the Media Lab, where I help develop a collaboration platform for Scratch!
+- 👩🏻‍💻 interning with Visionairy Health & developing an interface to visualize the effects of various image processing methods!
 - 🌱 making & learning through the Hack Club Summer of Making. Look at [this](https://scrapbook.jessding.com)!
+- 🎨 practicing drawing and painting, 🍪 baking, 😰 sweating in the Texas summer, 👻 vibing virtually with friends, and of course 👯 dancing!
 
 For more info/to see my projects, visit [jessding.com](https://jessding.com)!
 
