@@ -9,10 +9,14 @@ I'm a sophomore at MIT trying to take *all the classes* (:worried: just kidding!
 
 I'm currently:
 
-- 👩🏻‍💻 working/UROPing at the Media Lab, where I help develop a collaboration platform for Scratch!
-- 👩🏻‍💻 interning with Visionairy Health & developing an interface to visualize the effects of various image processing methods!
-- 🌱 making & learning through the Hack Club Summer of Making. Look at [this](https://scrapbook.jessding.com)!
-- 🎨 practicing drawing and painting, 🍪 baking, 😰 sweating in the Texas summer, 👻 vibing virtually with friends, and of course 👯 dancing!
+<ul>
+    <li>🤓 taking <a class="link" href="https://jessding.com/classes/">6.046, 6.004, 6.036, 18.03, CMS.100</a> remotely, through Zoom</li>
+    <li>👩🏻‍💻 tutoring at the <a class="link" href="https://math.mit.edu/learningcenter/tutors.html">Math Learning Center</a></li>
+    <li>💯 grading for two other MIT classes</li>
+    <li>🤖 developing/maintaining infrastructure for <a class="link" href="https://www.battlecode.org/">Battlecode</a></li>
+    <li>🌱 making & learning through Hack Club. Sharing daily updates at <a href="https://scrapbook.jessding.com" class="link">my scrapbook</a>!</li>
+    <li>🎨 drawing and painting, 👻 vibing virtually with friends, and of course 👯 dancing!</li>
+</ul>
 
 For more info/to see my projects, visit [jessding.com](https://jessding.com)!
 
