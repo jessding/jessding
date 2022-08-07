@@ -1,22 +1,10 @@
 ### 👋 Hi! I'm Jess Ding, aka [jessding](https://jessding.com)!
 
-I'm a sophomore at MIT trying to take *all the classes* (:worried: just kidding! it's a marathon, not a sprint!) and make *all the things* (well, using the resources at MIT to make whatever I think of :grin:)
+I'm a rising senior (class of 2023) at MIT and will probably undertake my M.Eng (class of 2024). I want to work on interesting, highly applicable projects where I can learn as much as I want!
 
 🙋🏻‍♀️ Pronouns: she/her  
 :house: Hometown: Austin, Texas  
 :art: Hobbies: :dancers: dancing, 🛠️ making, :taco: eating, drinking boba
-
-
-I'm currently:
-
-<ul>
-    <li>🤓 taking <a class="link" href="https://jessding.com/classes/">6.046, 6.004, 6.036, 18.03, CMS.100</a> remotely, through Zoom</li>
-    <li>👩🏻‍💻 tutoring at the <a class="link" href="https://math.mit.edu/learningcenter/tutors.html">Math Learning Center</a>, 💯grading for two other MIT classes</li>
-    <li>🤖 developing/maintaining infrastructure for <a class="link" href="https://www.battlecode.org/">Battlecode</a></li>
-    <li>👩🏻‍⚖️ sitting on my dorm's House Gov as part of the judicial committee and resolving (nonexistent-in-the-time-of-Zoom-uni) room reservation conflicts</li>
-    <li>🌱 making & learning through Hack Club. Sharing daily updates on <a href="https://scrapbook.jessding.com" class="link">my scrapbook</a>!</li>
-    <li>🎨 drawing and painting, 👻 vibing virtually with friends, and of course 👯 dancing (and also 😷 staying away from COVID 🦠)!</li>
-</ul>
 
 For more info/to see my projects, visit [jessding.com](https://jessding.com)!
 
