@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Jess Ding, aka [jessding](https://jessding.com)!
 
-I'm a rising senior (class of 2023) at MIT and will probably undertake my M.Eng (class of 2024). I want to work on interesting, highly applicable projects where I can ask questions, learn, and contribute as much as I want!
+I'm a rising senior (class of 2023) at MIT and M.Eng (class of 2024). I want to work on interesting, highly applicable projects where I can ask questions, learn, and contribute as much as I want!
 
 🙋🏻‍♀️ Pronouns: she/her  
 :house: Hometown: Austin, Texas  
